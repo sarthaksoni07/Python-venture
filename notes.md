@@ -36,3 +36,11 @@ Level,Operator,Description
 11,not,Logical NOT
 12,and,Logical AND
 13 (Lowest),or,Logical OR
+
+Enter number of pages and frames: 2 3
+Enter reference string: 3
+3
+
+FIFO Page Faults: 1
+LRU Page Faults: 1
+OPTIMAL Page Faults: 1

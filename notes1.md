@@ -15,7 +15,7 @@ some list functions include
 .min()
 .sum() #if integer
 
-
+numpy funcitons and their uses.
 | Function     | Work           |
 | ------------ | -------------- |
 | np.array()   | Create array   |
