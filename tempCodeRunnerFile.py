@@ -1,0 +1,2 @@
+        else:
+            self.qualified = False
